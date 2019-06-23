@@ -1,0 +1,15 @@
+insert into alien values (101, 'Rogera', 'Java');
+insert into alien values (102, 'Rogerb', 'Python');
+insert into alien values (103, 'Rogerc', 'C++');
+insert into alien values (104, 'Rogerd', 'Scala');
+insert into alien values (105, 'Rogere', 'Go');
+insert into alien values (106, 'Rogera', 'Java');
+insert into alien values (107, 'Rogerb', 'Python');
+insert into alien values (108, 'Rogerc', 'C++');
+insert into alien values (109, 'Rogerd', 'Scala');
+insert into alien values (110, 'Rogere', 'Go');
+insert into alien values (111, 'Rogera', 'Java');
+insert into alien values (112, 'Rogerb', 'Python');
+insert into alien values (113, 'Rogerc', 'C++');
+insert into alien values (114, 'Rogerd', 'Scala');
+insert into alien values (115, 'Rogere', 'Go');
